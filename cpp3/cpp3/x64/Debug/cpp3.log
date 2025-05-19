@@ -1,0 +1,7 @@
+﻿  cpp3.cpp
+C:\Users\asali\OneDrive\Рабочий стол\cpp3\cpp3\cpp3.cpp(56,57): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\asali\OneDrive\Рабочий стол\cpp3\cpp3\cpp3.cpp(56,57): warning C4267:         with
+C:\Users\asali\OneDrive\Рабочий стол\cpp3\cpp3\cpp3.cpp(56,57): warning C4267:         [
+C:\Users\asali\OneDrive\Рабочий стол\cpp3\cpp3\cpp3.cpp(56,57): warning C4267:             _Ty=int
+C:\Users\asali\OneDrive\Рабочий стол\cpp3\cpp3\cpp3.cpp(56,57): warning C4267:         ]
+  cpp3.vcxproj -> C:\Users\asali\OneDrive\Рабочий стол\cpp3\x64\Debug\cpp3.exe
